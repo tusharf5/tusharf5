@@ -12,7 +12,7 @@
 - 👀 Developer experience is equally important as User experience. If your users are happy but the developers are not that means you're doing something wrong.
 - 🧐 Code Reviews should be encouraging. People should be excited about a code review session with you and not feel hesitant.
 - 💪🏻 Your team's success is your success. Help people grow. That shit feels good!.
-- 🦋 Try to read this page with your eyes closed. Can't do it right? Unfortunately, some people have to do it like that. Thus, it is our responsibility as web developers to make sure the web pages we create are accessible for such people.
+- 🦋 Try to read this page with your eyes closed. Can't do it right? Unfortunately, some people have to do it like that. Thus, it is our responsibility as web developers to make sure the web pages we create are accessible to people with disabilities.
 - 🍜 Having side passions or hobbies helps you feel good when you need a break from work. Mine are cooking 🍪 & traveling 🚘.
 - 🏃🏻 Health, Happiness, Family >>>>>>>> Work.
 - 🎭 People >>>>>>>> Software.
