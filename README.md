@@ -1,9 +1,10 @@
 ### Hi there 👋
 
+- 👨🏻 My name is Tushar.
 - 🔭 I’m currently working on Typescript, Node, AWS, React, MongoDB.
-- 🌱 I’m currently learning Go.
+- 🌱 Nowadays I am learning Golang.
 - 👯 I’m also working on(learning) creating Design Systems in react.
-- 🤔 I want to create a real-time rich text editor that works in the browser.
+- 🤔 I want to create a real-time text editor that works in the browser.
 
 ### Here are some of the values that I live by ⛄️
 
