@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👨🏻 My name is Tushar.
+- 🙎 My name is Tushar.
 - 🔭 I’m currently working on Typescript, Node, AWS, React, MongoDB.
 - 🌱 Nowadays I am learning Golang.
 - 👯 I’m also working on(learning) creating Design Systems in react.
