@@ -9,7 +9,7 @@ I'm the director of engineering at Gerald Technologies, Inc. I’m currently wor
 - Nowadays, I am learning Golang.
 - I’m also working on(learning) creating Design Systems in react.
 
-### Here are some of the values that I live by ⛄️
+## Here are some of the values that I live by ⛄️
 
 - Software Engineering is more about interacting with people than with code.
 - Empathy and Humbleness are the two most important skills ~for any role~ for any person.
