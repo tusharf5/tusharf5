@@ -23,5 +23,5 @@ I'm the director of engineering at Gerald Technologies, Inc. I’m currently wor
 
 ## Reach out to me via
 
-[Twitter](https://twitter.com/tusharf5) | [LinkedIn](https://linkedin.com/in/tusharf5) | [Email](ts17995@gmail.com)
+[Twitter](https://twitter.com/tusharf5) | [LinkedIn](https://linkedin.com/in/tusharf5) | [Email](ts17995@gmail.com) | [Blog](https://tusharsharma.dev)
 
