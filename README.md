@@ -20,8 +20,9 @@ I'm the director of engineering at Gerald Technologies, Inc. I’m currently wor
 - Health, Happiness, Family >>>>>>> Work.
 - People >>>>>>> Software.
 
-
 ## Reach out to me via
 
 [Twitter](https://twitter.com/tusharf5) | [LinkedIn](https://linkedin.com/in/tusharf5) | [Email](mailto:ts17995@gmail.com?subject=[GitHub]) | [Blog](https://tusharsharma.dev)
+
+<img src="https://komarev.com/ghpvc/?username=tusharf5" alt="tusharf5" />
 
