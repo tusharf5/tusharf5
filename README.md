@@ -17,8 +17,6 @@ I'm the director of engineering at Gerald Technologies, Inc. I’m currently wor
 - Your team's success is your success. Help people grow. That shit feels good!.
 - Try to read this page with your eyes closed. Can't do it right? Unfortunately, some people have to do it like that. Thus, it is our responsibility as web developers to make sure the web pages we create are accessible to those people.
 - Having side passions or hobbies helps you feel good when you need a break from work. Mine are cooking 🍪 & traveling 🚘.
-- Health, Happiness, Family >>>>>>> Work.
-- People >>>>>>> Software.
 
 ## Reach out to me via
 
@@ -26,3 +24,5 @@ I'm the director of engineering at Gerald Technologies, Inc. I’m currently wor
 
 <img src="https://komarev.com/ghpvc/?username=tusharf5" alt="tusharf5" />
 
+<!-- - Health, Happiness, Family >>>>>>> Work.
+- People >>>>>>> Software. -->
