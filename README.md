@@ -7,7 +7,8 @@ I'm the director of engineering at Gerald Technologies, Inc. I’m currently wor
 - I enjoy cooking 👨🏻‍🍳
 - I love traveling to mountains.
 - Nowadays, I am learning Golang.
-- I’m also working on(learning) creating design systems in react.
+- I'm also working on a VS Code Extention.
+- I’m also working on creating a design system in react.
 
 ## My values
 
