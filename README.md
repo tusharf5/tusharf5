@@ -1,12 +1,12 @@
 # Hey, I'm Tushar! 👋
 
-I'm the director of engineering at [Gerald Technologies, Inc.](https://joingerald.com) I’m currently working on Typescript, Node, AWS, React, MongoDB. I like learning and building stuff related to databases & browsers.
+I’m currently working on Typescript, Node, AWS, React, MongoDB. I like learning and building stuff related to databases & browsers.
 
 ## In my free time
 
 - I enjoy cooking 👨🏻‍🍳
 - I love traveling to mountains.
-- Nowadays, I am learning Golang.
+- Nowadays, I am ~~learning Golang~~ building a open source react calendar.
 - I'm working on a VS Code Extention.
 - I’m also working on creating a design system in react.
 
