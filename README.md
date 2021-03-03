@@ -6,7 +6,7 @@ I’m currently working on Typescript, Node, AWS, React, MongoDB. I like learnin
 
 - I enjoy cooking 👨🏻‍🍳
 - I love traveling to mountains.
-- Nowadays, I am ~~learning Golang~~ building a open source react calendar.
+- Nowadays, I am ~~learning Golang~~ building a open source [react calendar](https://github.com/tusharf5/react-calendar).
 - I'm working on a VS Code Extention.
 - I’m also working on creating a design system in react.
 
