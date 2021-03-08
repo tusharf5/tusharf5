@@ -19,7 +19,7 @@ I’m currently working on Typescript, Node, AWS, React, MongoDB. I like learnin
 - Try to read this page with your eyes closed. Can't do it right? Unfortunately, some people have to do it like that. Thus, it is our responsibility as web developers to make sure the web pages we create are accessible to those people.
 - Having side passions or hobbies helps you feel good when you need a break from work. Mine are cooking 🍪 & traveling 🚘.
 - Health, Happiness & Respect >>>>>>> Work.
-- People >>>>>>> Software.
+- People >>>>>>> Processes.
 
 ## Reach out to me via
 
