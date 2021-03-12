@@ -1,14 +1,12 @@
 # Hey, I'm Tushar! 👋
 
-I’m currently working on Typescript, Node, AWS, React, MongoDB. I like learning and building stuff related to databases & browsers.
+I’m currently working on Typescript, Node, AWS, Serverless, React, MongoDB. I like learning and building stuff related to databases & browsers.
 
 ## In my free time
 
 - I enjoy cooking 👨🏻‍🍳
 - I love traveling to mountains.
-- Nowadays, I am ~~learning Golang~~ building a open source [react calendar](https://github.com/tusharf5/react-calendar).
-- I'm working on a VS Code Extention.
-- I’m also working on creating a design system in react.
+- Nowadays, I am ~~workinng on Golang~~ building an open source [react calendar](https://github.com/tusharf5/react-calendar).
 
 ## My values
 
@@ -27,5 +25,3 @@ I’m currently working on Typescript, Node, AWS, React, MongoDB. I like learnin
 
 <img src="https://komarev.com/ghpvc/?username=tusharf5" alt="tusharf5" />
 
-<!-- - Health, Happiness, Family >>>>>>> Work.
-- People >>>>>>> Software. -->
