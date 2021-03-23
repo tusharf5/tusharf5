@@ -1,6 +1,6 @@
 # Hey, I'm Tushar! 👋
 
-I’m currently working on Typescript, Node, AWS, Serverless, React, MongoDB. I like learning and building stuff related to databases & browsers.
+I’m currently working on Typescript, Node, AWS, Serverless, React. I like learning and building stuff related to databases & browsers.
 
 ## In my free time
 
