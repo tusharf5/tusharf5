@@ -1,12 +1,12 @@
 # Hey, I'm Tushar! 👋
 
-I’m currently working on Typescript, Node, AWS, Serverless, React. I like learning and building stuff related to databases & browsers.
+I’m currently working on Serverless, Typescript, Node, AWS, React. I like learning and building stuff related to databases & browsers.
 
 ## In my free time
 
 - I enjoy cooking 👨🏻‍🍳
 - I love traveling to mountains.
-- Nowadays, I am ~~workinng on Golang~~ building an open source [react calendar](https://github.com/tusharf5/react-calendar).
+- Nowadays, I am learning Golang and Electron. ~building an open source react calendar~
 
 ## My values
 
