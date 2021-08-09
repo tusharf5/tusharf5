@@ -6,7 +6,7 @@ I’m currently working on Serverless, Typescript, Node, AWS, React. I like lear
 
 - I enjoy cooking 👨🏻‍🍳
 - I love traveling to mountains.
-- Nowadays, I am learning Golang and ~Electron~ building an open source [react calendar](https://tusharf5.github.io/react-calendar/).
+- Nowadays, I am learning Golang and ~Electron~ building an open source [react calendar](https://natscale.github.io/react-calendar/).
 
 ## My values
 
