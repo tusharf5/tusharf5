@@ -4,7 +4,7 @@ I’m currently working on Serverless, Typescript, Golang, Node, AWS, React. I l
 
 ## In my free time
 
-- I love reading about and looking at picture of space.
+- I love reading about and looking at pictures of space.
 - I love trekking mountains.
 - Nowadays, I am learning linux networking internals.
 
