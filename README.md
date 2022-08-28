@@ -6,7 +6,7 @@ I’m currently working on Serverless, Typescript, Golang, Node, AWS, React. I l
 
 - I love reading about and looking at pictures of space.
 - I love trekking mountains.
-- Nowadays, I am learning linux networking internals.
+- Nowadays, I am learning linux networking internals, working on a react drag & drop lib.
 
 ## My values
 
