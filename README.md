@@ -4,9 +4,8 @@ I’m currently working on Serverless, Typescript, Golang, Node, AWS, React. I l
 
 ## In my free time
 
-- I love reading about and looking at pictures of space.
-- I love trekking mountains.
-- Nowadays, I am learning linux networking internals, working on a react drag & drop lib.
+- I love reading about space, trekking mountains.
+- Nowadays, I am learning more about the working of linux networking stack, ~~working on a react drag & drop lib~~.
 
 ## Reach out to me via
 
